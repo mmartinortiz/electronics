@@ -1,0 +1,16 @@
+{
+  "packages": [
+    "thonny@latest",
+    "esptool@latest",
+    "python@3.11",
+    "ruff@latest",
+    "rshell@latest",
+    "pre-commit@latest"
+  ],
+  "shell": {
+    "init_hook": ["echo 'Welcome to devbox!' > /dev/null"],
+    "scripts": {
+      "test": ["echo \"Error: no test specified\" && exit 1"]
+    }
+  }
+}
