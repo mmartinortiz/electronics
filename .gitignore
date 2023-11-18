@@ -7,6 +7,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Pico Stubs
+.vscode/Pico-W-Stub
+
 # C extensions
 *.so
 
