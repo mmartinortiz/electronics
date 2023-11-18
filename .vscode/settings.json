@@ -1,5 +1,16 @@
 {
+  "[python]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "charliermarsh.ruff"
+  },
   "python.analysis.diagnosticSeverityOverrides": {
     "reportMissingModuleSource": "none"
-  }
+  },
+  "python.linting.enabled": true,
+  "python.languageServer": "Pylance",
+  "python.analysis.typeCheckingMode": "basic",
+  "python.analysis.typeshedPaths": [".vscode/Pico-W-Stub"],
+  "python.analysis.extraPaths": [".vscode/Pico-W-Stub"],
+  "micropico.syncFolder": "",
+  "micropico.openOnStart": true
 }
