@@ -21,6 +21,26 @@
         }
       }
     },
+    "poetry@latest": {
+      "last_modified": "2023-11-05T03:42:12Z",
+      "resolved": "github:NixOS/nixpkgs/15492ddc2974ba426ea7e17116ea7aa44fc96dcd#poetry",
+      "source": "devbox-search",
+      "version": "1.6.1",
+      "systems": {
+        "aarch64-darwin": {
+          "store_path": "/nix/store/vycx3wr51rrg3czk9jdv6kjqxg2p7ic7-python3.11-poetry-1.6.1"
+        },
+        "aarch64-linux": {
+          "store_path": "/nix/store/67fz62pdsrn9gp7sbbwy55paifpfyx0j-python3.11-poetry-1.6.1"
+        },
+        "x86_64-darwin": {
+          "store_path": "/nix/store/li4k3x0x98w1g21ycfsn20g7v188qvc2-python3.11-poetry-1.6.1"
+        },
+        "x86_64-linux": {
+          "store_path": "/nix/store/lah6wblqpd8j8kpbs9mfnmwsn35bwixq-python3.11-poetry-1.6.1"
+        }
+      }
+    },
     "pre-commit@latest": {
       "last_modified": "2023-11-02T13:29:18Z",
       "resolved": "github:NixOS/nixpkgs/b644d97bda6dae837d577e28383c10aa51e5e2d2#pre-commit",

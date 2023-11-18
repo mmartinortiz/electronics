@@ -5,10 +5,11 @@
     "python@3.11",
     "ruff@latest",
     "rshell@latest",
-    "pre-commit@latest"
+    "pre-commit@latest",
+    "poetry@latest"
   ],
   "shell": {
-    "init_hook": ["echo 'Welcome to devbox!' > /dev/null"],
+    "init_hook": ["poetry shell"],
     "scripts": {
       "test": ["echo \"Error: no test specified\" && exit 1"]
     }

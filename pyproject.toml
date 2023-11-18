@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "electronics"
+version = "0.1.0"
+description = "Multiple Electronic projects"
+authors = ["manolo <mmartinortiz@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+micropython-rp2-stubs = "*"
+micropython-esp32-stubs = "*"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
