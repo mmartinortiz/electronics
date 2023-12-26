@@ -23,6 +23,7 @@
     },
     "poetry@latest": {
       "last_modified": "2023-11-05T03:42:12Z",
+      "plugin_version": "0.0.3",
       "resolved": "github:NixOS/nixpkgs/15492ddc2974ba426ea7e17116ea7aa44fc96dcd#poetry",
       "source": "devbox-search",
       "version": "1.6.1",
