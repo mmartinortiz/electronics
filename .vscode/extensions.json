@@ -4,6 +4,8 @@
     "paulober.pico-w-go",
     "ms-python.python",
     "visualstudioexptteam.vscodeintellicode",
-    "ms-python.vscode-pylance"
+    "ms-python.vscode-pylance",
+    "jetpack-io.devbox",
+    "joedevivo.vscode-circuitpython"
   ]
 }
