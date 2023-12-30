@@ -1,13 +1,15 @@
 import time
+
+import adafruit_rgbled
 import microcontroller
 from rainbowio import colorwheel
-import adafruit_rgbled
-
 
 # Create the RGB LED objects
 LEDS = [
     adafruit_rgbled.RGBLED(
-        microcontroller.pin.GPIO2, microcontroller.pin.GPIO3, microcontroller.pin.GPIO12
+        microcontroller.pin.GPIO8,
+        microcontroller.pin.GPIO7,
+        microcontroller.pin.GPIO6,
     ),
     adafruit_rgbled.RGBLED(
         microcontroller.pin.GPIO13,
