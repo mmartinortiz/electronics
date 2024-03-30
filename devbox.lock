@@ -1,6 +1,24 @@
 {
   "lockfile_version": "1",
   "packages": {
+    "arduino-ide@latest": {
+      "last_modified": "2024-03-25T21:25:22Z",
+      "resolved": "github:NixOS/nixpkgs/07262b18b97000d16a4bdb003418bd2fb067a932#arduino-ide",
+      "source": "devbox-search",
+      "version": "2.3.2",
+      "systems": {
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/82rr6yhzkwsm7dra52787x6y87yn51b3-arduino-ide-2.3.2",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/82rr6yhzkwsm7dra52787x6y87yn51b3-arduino-ide-2.3.2"
+        }
+      }
+    },
     "esptool@latest": {
       "last_modified": "2024-03-22T11:26:23Z",
       "resolved": "github:NixOS/nixpkgs/a3ed7406349a9335cb4c2a71369b697cecd9d351#esptool",

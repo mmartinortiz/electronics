@@ -6,7 +6,8 @@
     "ruff@latest",
     "rshell@latest",
     "pre-commit@latest",
-    "poetry@latest"
+    "poetry@latest",
+    "arduino-ide@latest"
   ],
   "shell": {
     "init_hook": ["echo \"poetry shell\" > /dev/null"],
