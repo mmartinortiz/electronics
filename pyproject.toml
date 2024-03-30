@@ -12,6 +12,7 @@ micropython-rp2-stubs = "*"
 micropython-esp32-stubs = "*"
 circup = "^1.5.2"
 types-circuitpython = "^8.1.0"
+pipkin = "^2.0b2"
 
 
 [build-system]
