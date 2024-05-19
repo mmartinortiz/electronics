@@ -9,7 +9,7 @@
     "poetry@latest",
     "arduino-ide@latest",
     "mpremote",
-    "fritzing"
+    "fritzing@latest"
   ],
   "shell": {
     "init_hook": ["echo \"poetry shell\" > /dev/null"],
