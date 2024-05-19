@@ -83,6 +83,10 @@
         }
       }
     },
+    "fritzing": {
+      "resolved": "github:NixOS/nixpkgs/75a52265bda7fd25e06e3a67dee3f0354e73243c#fritzing",
+      "source": "nixpkg"
+    },
     "mpremote": {
       "resolved": "github:NixOS/nixpkgs/75a52265bda7fd25e06e3a67dee3f0354e73243c#mpremote",
       "source": "nixpkg"

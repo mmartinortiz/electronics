@@ -8,7 +8,8 @@
     "pre-commit@latest",
     "poetry@latest",
     "arduino-ide@latest",
-    "mpremote"
+    "mpremote",
+    "fritzing"
   ],
   "shell": {
     "init_hook": ["echo \"poetry shell\" > /dev/null"],

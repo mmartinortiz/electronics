@@ -22,8 +22,9 @@ The following programs are available in your DevBox shell, either provided direc
 - [pre-commit](https://pre-commit.com/), for making sure that committed files look nice.
 - [Poetry](https://python-poetry.org/), for managing a Python Virtual environment with the project libraries.
 - [Arduino IDE](https://www.arduino.cc/en/software)
-- [mpremote](https://github.com/micropython/micropython-lib/tree/master/mpremote), a command line tool or uploading files to Micro Python devices
-- [pipkin](https://github.com/aivarannamaa/pipkin), tool for installing distribution packages for MicroPython and CircuitPython
+- [mpremote](https://github.com/micropython/micropython-lib/tree/master/mpremote), a command line tool or uploading files to Micro Python devices.
+- [pipkin](https://github.com/aivarannamaa/pipkin), tool for installing distribution packages for MicroPython and CircuitPython.
+- [Fritzing](https://fritzing.org/), fantastic tool for creating schematics.
 
 ## How to upload a file to the Pico, and make it be run on boot
 
